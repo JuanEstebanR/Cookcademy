@@ -408,4 +408,8 @@ extension Recipe {
                ]
         )
     ]
+    
+    static let categories = MainInformation.Category.allCases
+    
+    
 }

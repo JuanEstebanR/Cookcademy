@@ -52,8 +52,6 @@ struct RecipeRow: View {
             Spacer()
         }
         .foregroundStyle(content.contains("Vegetarian") ? Color.green : Color.black)
-        .font(.title3)
-        .padding([.top, .bottom])
     }
 }
 
