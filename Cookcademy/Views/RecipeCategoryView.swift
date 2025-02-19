@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct CategoriesView: View {
+struct RecipeCategoryView: View {
     let categories = MainInformation.Category.allCases
     let colors = [Color.red, Color.blue, Color.green, Color.yellow]
     let layout = [
@@ -38,5 +38,5 @@ struct CategoriesView: View {
 }
 
 #Preview {
-    CategoriesView()
+    RecipeCategoryView()
 }
