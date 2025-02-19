@@ -16,6 +16,7 @@
 		9B56AB1E2D5EA3D000A004A4 /* Recipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B56AB1D2D5EA3D000A004A4 /* Recipe.swift */; };
 		9B56AB212D5EBE1200A004A4 /* RecipeInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B56AB202D5EBE1200A004A4 /* RecipeInfoView.swift */; };
 		9BCC66872D6403B100F743C7 /* CategoriesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BCC66862D6403B100F743C7 /* CategoriesView.swift */; };
+		9BCC66892D6567E300F743C7 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 9BCC66882D6567E300F743C7 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		9B56AB1D2D5EA3D000A004A4 /* Recipe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipe.swift; sourceTree = "<group>"; };
 		9B56AB202D5EBE1200A004A4 /* RecipeInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeInfoView.swift; sourceTree = "<group>"; };
 		9BCC66862D6403B100F743C7 /* CategoriesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesView.swift; sourceTree = "<group>"; };
+		9BCC66882D6567E300F743C7 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				9B56AB0E2D5EA37800A004A4 /* CookcademyApp.swift */,
 				9B56AB122D5EA38A00A004A4 /* Assets.xcassets */,
 				9B56AB142D5EA38A00A004A4 /* Preview Content */,
+				9BCC66882D6567E300F743C7 /* .gitignore */,
 			);
 			path = Cookcademy;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9B56AB162D5EA38A00A004A4 /* Preview Assets.xcassets in Resources */,
+				9BCC66892D6567E300F743C7 /* .gitignore in Resources */,
 				9B56AB132D5EA38A00A004A4 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
